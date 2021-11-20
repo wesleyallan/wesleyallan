@@ -1,8 +1,8 @@
 <div align="center">
 <h2>👋 Ola, Bem vindo ao meu GitHub</h2>
 <a href="https://github.com/Gitashay">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Gitashay&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gitashay&layout=compact&langs_count=7&theme=dark"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Gitashay&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gitashay&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> 
