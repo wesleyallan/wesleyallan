@@ -1,8 +1,7 @@
 <div align="center">
 <h2>👋 Ola, Bem vindo ao meu GitHub</h2>
 <a href="https://github.com/Gitashay">
-  <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api?username=Gitashay&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="45%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gitashay&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="220em" width="100%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gitashay&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Wesley-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> 
