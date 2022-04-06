@@ -23,7 +23,7 @@
 <div align="center">
 <br/>
   <a href="https://github.com/Gitashay">
-  <img height="158em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gitashay&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="158em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesleyallan&layout=compact&langs_count=7&theme=dracula"/>
   </a>
 </div>
   
