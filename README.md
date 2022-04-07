@@ -48,6 +48,7 @@
 <div align="center">
   
   <a href="#" target="_blank">![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)</a>
+  <a href="#" target="_blank">![Java](https://img.shields.io/badge/-Java-red?style=for-the-badge&logo=java)</a>
   
   </div>
 
