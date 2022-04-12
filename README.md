@@ -3,7 +3,7 @@
   👋 Sou estudando de Análise e Desenvolvimento de Sistemas na instituição Toledo Prudente, entusiasta da programação buscando adquirir conhecimento e experiencia na area.
 </p>
 <p align="left">
-  📚 Atualmente estou estudando Javascript.
+  📚 Atualmente estou estudando Javascript e Java.
 </p>
 <p align="left">
   🔎 Procurando por novas oportunidades...
