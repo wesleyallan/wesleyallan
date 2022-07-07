@@ -9,7 +9,7 @@
   🔎 Procurando por novas oportunidades...
 </p>
 <p align="left">
-  ⚡ Após desistir do curso engenharia civil por sentir que não estava no caminho do que eu amava fazer, fiquei um tempo trabalhando apenas, porem no ano de 2021 voltei a estudar por conta, e como o sentimento de amor só aumentou por essa área, resolver cursar Analise e Desenvolvimento de Sistemas.
+  ⚡ Após desistir do curso engenharia civil por sentir que não estava no caminho do que eu amava fazer, fiquei um tempo trabalhando e refletindo sobre minha possível futura carreira, porem, no ano de 2021 voltei a estudar por conta, e como o sentimento de amor só aumentou por essa área, resolvi cursar Analise e Desenvolvimento de Sistemas.
 </p>
 <br/>
 
