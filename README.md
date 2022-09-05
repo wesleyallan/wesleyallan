@@ -35,7 +35,6 @@
   
   <a href="https://alunos.b7web.com.br/media/certificates/certificado_3830308.jpg" target="_blank">![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)</a>
   <a href="https://alunos.b7web.com.br/media/certificates/certificado_3830308.jpg" target="_blank">![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)</a>
-  <a href="https://alunos.b7web.com.br/media/certificates/certificado_5799377.jpg" target="_blank">![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)</a>
   <a href="#" target="_blank">![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)</a>
   <a href="#" target="_blank">![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)</a>
   <a href="https://www.udemy.com/certificate/UC-7a0234f6-9a3e-4654-a3a2-e6d7505ad4df/" target="_blank">![Shell](https://img.shields.io/badge/-Shell%20Script-181717?style=for-the-badge&logo=linux&logoColor=white)</a>
@@ -49,6 +48,7 @@
 <div align="center">
   
   <a href="#" target="_blank">![Python](https://img.shields.io/badge/-Python-yellow?style=for-the-badge&logo=Python)</a>
+  <a href="https://alunos.b7web.com.br/media/certificates/certificado_5799377.jpg" target="_blank">![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)</a>
   <a href="#" target="_blank">![Java](https://img.shields.io/badge/-Java-red?style=for-the-badge&logo=java)</a>
   
  </div>
