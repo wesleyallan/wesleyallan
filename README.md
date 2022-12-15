@@ -14,6 +14,7 @@
 <br/>
 
 <div align="center"> 
+  
   <a href="https://www.instagram.com/wesleyallansilva" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/hQN2k8N6jf" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href="https://facebook.com/wesley.allansilva" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
@@ -25,6 +26,7 @@
 </h3>
   
 <div align="center">
+  
   <a href="https://alunos.b7web.com.br/media/certificates/certificado_3830308.jpg" target="_blank">![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)</a>
   <a href="https://alunos.b7web.com.br/media/certificates/certificado_3830308.jpg" target="_blank">![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)</a>
   <a href="#" target="_blank">![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)</a>
@@ -38,6 +40,8 @@
 </h3>
   
 <div align="center">
+  
   <a href="#" target="_blank">![Python](https://img.shields.io/badge/-Python-yellow?style=for-the-badge&logo=python)</a>
   <a href="https://alunos.b7web.com.br/media/certificates/certificado_5799377.jpg" target="_blank">![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)</a>
+  
  </div>
