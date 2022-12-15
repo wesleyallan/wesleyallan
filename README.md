@@ -3,13 +3,13 @@
   👋 Sou estudando de Análise e Desenvolvimento de Sistemas na instituição Toledo Prudente, entusiasta da programação buscando adquirir conhecimento e experiencia na area.
 </p>
 <p align="left">
-  📚 Atualmente estou estudando Javascript e Java.
+  📚 Atualmente estou estudando Javascript e Python
 </p>
 <p align="left">
   🔎 Procurando por novas oportunidades...
 </p>
 <p align="left">
-  ⚡ Após desistir do curso engenharia civil por sentir que não estava no caminho do que eu amava fazer, fiquei um tempo trabalhando e refletindo sobre minha possível futura carreira, porem, no ano de 2021 voltei a estudar por conta, e como o sentimento de amor só aumentou por essa área, resolvi cursar Analise e Desenvolvimento de Sistemas.
+  ⚡ Após desistir do curso engenharia civil por sentir que não estava no caminho do que eu amava fazer, fiquei um tempo trabalhando e refletindo sobre minha possível futura carreira, porem, no ano de 2021 voltei a estudar por conta programação web, e como o sentimento de amor só aumentou por essa área, resolvi cursar Analise e Desenvolvimento de Sistemas.
 </p>
 <br/>
 
