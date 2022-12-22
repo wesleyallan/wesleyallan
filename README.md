@@ -45,3 +45,4 @@
   <a href="https://alunos.b7web.com.br/media/certificates/certificado_5799377.jpg" target="_blank">![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)</a>
   
  </div>
+Conquista!
