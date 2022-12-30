@@ -1,9 +1,9 @@
 ### Olá! Eu sou Wesley Silva 
 <p align="left">
-  👋 Sou estudando de Análise e Desenvolvimento de Sistemas na instituição Toledo Prudente, entusiasta da programação buscando adquirir conhecimento e experiencia na area.
+  👋 Sou estudante de Análise e Desenvolvimento de Sistemas na instituição Toledo Prudente, entusiasta da programação buscando adquirir conhecimento e experiencia na area.
 </p>
 <p align="left">
-  📚 Atualmente estou estudando Javascript e Python
+  📚 Atualmente estou estudando Javascript, Python, React e Node
 </p>
 <p align="left">
   🔎 Procurando por novas oportunidades...
@@ -26,26 +26,29 @@
   <a href="https://www.linkedin.com/in/wesley-silva-229724208/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  
 <h3 align="center">  
-  Concluído ✔️
+  Experiência ✔️
 </h3>
   
 <div align="center">
   
-  <a href="https://alunos.b7web.com.br/media/certificates/certificado_3830308.jpg" target="_blank">![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)</a>
-  <a href="https://alunos.b7web.com.br/media/certificates/certificado_3830308.jpg" target="_blank">![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)</a>
+  <a href="#" target="_blank">![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)</a>
+  <a href="#" target="_blank">![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)</a>
   <a href="#" target="_blank">![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)</a>
   <a href="#" target="_blank">![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)</a>
-  <a href="https://www.udemy.com/certificate/UC-7a0234f6-9a3e-4654-a3a2-e6d7505ad4df/" target="_blank">![Shell](https://img.shields.io/badge/-Shell%20Script-181717?style=for-the-badge&logo=linux&logoColor=white)</a>
+  <a href="#" target="_blank">![Shell](https://img.shields.io/badge/-Shell%20Script-181717?style=for-the-badge&logo=linux&logoColor=white)</a>
 <br/>
 </div>
   
 <h3 align="center">  
-  Cursos em andamento ⏳
+  Estudando ⏳
 </h3>
   
 <div align="center">
   
   <a href="#" target="_blank">![Python](https://img.shields.io/badge/-Python-yellow?style=for-the-badge&logo=python)</a>
-  <a href="https://alunos.b7web.com.br/media/certificates/certificado_5799377.jpg" target="_blank">![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)</a>
+  <a href="#" target="_blank">![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)</a>
+  <a href="#" target="_blank">![TypeScript](https://img.shields.io/badge/-TypeScript-e1e1e6?style=for-the-badge&logo=typescript)</a>
+  <a href="#" target="_blank">![React](https://img.shields.io/badge/-react-gray?style=for-the-badge&logo=react)</a>
+  <a href="#" target="_blank">![Node](https://img.shields.io/badge/-node-233056?style=for-the-badge&logo=node.js)</a>
   
  </div>
