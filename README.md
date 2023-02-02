@@ -1,6 +1,6 @@
 ### Olá! Eu sou Wesley Silva
 
-<img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;margin-left: 5px;" src="./coffeEnergi.png">
+<img align="right" alt="Rafa-pic" height="150" style="border-radius:20px;margin-left: 5px;" src="./coffeEnergi.png">
 <p align="left">
   👋 Sou estudante de Análise e Desenvolvimento de Sistemas na instituição Toledo Prudente, entusiasta da programação buscando adquirir conhecimento e experiencia na area.
 </p>
@@ -25,8 +25,6 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
-
-<br />
 
 <h3 align="center">
   Redes 👤
