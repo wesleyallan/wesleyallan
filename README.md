@@ -1,4 +1,5 @@
-### Olá! Eu sou Wesley Silva 
+### Olá! Eu sou Wesley Silva
+
 <p align="left">
   👋 Sou estudante de Análise e Desenvolvimento de Sistemas na instituição Toledo Prudente, entusiasta da programação buscando adquirir conhecimento e experiencia na area.
 </p>
@@ -31,11 +32,11 @@
   
 <div align="center">
   
-  <a href="#" target="_blank">![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)</a>
-  <a href="#" target="_blank">![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)</a>
-  <a href="#" target="_blank">![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)</a>
-  <a href="#" target="_blank">![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)</a>
-  <a href="#" target="_blank">![Shell](https://img.shields.io/badge/-Shell%20Script-181717?style=for-the-badge&logo=linux&logoColor=white)</a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" /></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3" alt="css3" /></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git" alt="git" /></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github" alt="github" /></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/-Shell%20Script-181717?style=for-the-badge&logo=linux&logoColor=white" alt="linux" /></a>
 <br/>
 </div>
   
@@ -45,10 +46,10 @@
   
 <div align="center">
   
-  <a href="#" target="_blank">![Python](https://img.shields.io/badge/-Python-yellow?style=for-the-badge&logo=python)</a>
-  <a href="#" target="_blank">![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)</a>
-  <a href="#" target="_blank">![TypeScript](https://img.shields.io/badge/-TypeScript-e1e1e6?style=for-the-badge&logo=typescript)</a>
-  <a href="#" target="_blank">![React](https://img.shields.io/badge/-react-gray?style=for-the-badge&logo=react)</a>
-  <a href="#" target="_blank">![Node](https://img.shields.io/badge/-node-233056?style=for-the-badge&logo=node.js)</a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/-Python-yellow?style=for-the-badge&logo=python" alt="Python" /></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript" alt="JavaScript" /></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/-TypeScript-e1e1e6?style=for-the-badge&logo=typescript" alt="TypeScript" /></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/-react-gray?style=for-the-badge&logo=react" alt="React" /></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/-node-233056?style=for-the-badge&logo=node.js" alt="Node" /></a>
   
  </div>
