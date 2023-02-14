@@ -1,8 +1,8 @@
-### Olá! Eu sou Wesley Silva
+### <img src="./hi.gif" width="25px" /> Olá! Eu sou Wesley Silva
 
 <img align="right" alt="Rafa-pic" height="150" style="border-radius:20px;margin-left: 5px;" src="./coffeEnergi.png">
 <p align="left">
-  👋 Sou estudante de Análise e Desenvolvimento de Sistemas na instituição Toledo Prudente, entusiasta da programação buscando adquirir conhecimento e experiencia na area.
+  📜Sou estudante de Análise e Desenvolvimento de Sistemas na instituição Toledo Prudente, entusiasta da programação buscando adquirir conhecimento e experiencia na area.
 </p>
 <p align="left">
   📚 Atualmente estou estudando TypeScript, React e Node
