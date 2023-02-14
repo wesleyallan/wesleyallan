@@ -14,7 +14,7 @@
   ⚡ Após desistir do curso engenharia civil por sentir que não estava no caminho do que eu amava fazer, fiquei um tempo trabalhando e refletindo sobre minha possível futura carreira, porem, no ano de 2021 voltei a estudar por conta programação web, e como o sentimento de amor só aumentou por essa área, resolvi cursar Analise e Desenvolvimento de Sistemas.
 </p>
 
-<br/>
+<br />
 
 <div align="center">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -24,6 +24,8 @@
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+</div>
+
 </div>
 
 <h3 align="center">
@@ -37,3 +39,8 @@
   <a href = "mailto:wesley.allansilva@gmail.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/wesley-silva-229724208/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
+
+<br />
+<div align="center">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wesleyallan&layout=compact&langs_count=8&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
