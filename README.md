@@ -11,7 +11,7 @@
   🔎 Procurando por novas oportunidades...
 </p>
 <p align="left">
-  ⚡ Após desistir do curso engenharia civil por sentir que não estava no caminho do que eu amava fazer, fiquei um tempo trabalhando e refletindo sobre minha possível futura carreira, porem, no ano de 2021 voltei a estudar por conta programação web, e como o sentimento de amor só aumentou por essa área, resolvi cursar Analise e Desenvolvimento de Sistemas.
+  ⚡ Após abandonar o curso de Engenharia Civil por sentir que não estava seguindo meu verdadeiro chamado, decidi dedicar algum tempo ao trabalho e à reflexão sobre minha futura carreira. Foi então que, em 2021, decidi voltar aos estudos, desta vez na área de programação web. A cada dia, meu amor por essa área só cresce e, por isso, decidi seguir adiante com um curso de Análise e Desenvolvimento de Sistemas. Com esta escolha, estou confiante de que estou no caminho certo para construir uma carreira gratificante e realizadora.
 </p>
 
 <br />
